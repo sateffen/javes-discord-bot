@@ -19,6 +19,7 @@ action is executed.
 
 So basically it looks like this:
 
+```
 +-----------+      +---------+
 |  Message  |----->|  Javes  |
 +-----------+      +---------+
@@ -32,6 +33,7 @@ So basically it looks like this:
      +-------------+  |      +--------------+  |
      |  CP-Intent  |--+      |  NLP-Intent  |--+
      +-------------+         +--------------+
+```
 
 ## Where does the name come from?
 
